@@ -55,6 +55,21 @@ This project explores a comprehensive IMDb movie dataset using SQL. The analysis
 * Sorted movies by **runtime**, identifying the **longest** and **shortest** ones.
 * Filtered movies longer than **2 hours**.
 
+### ⭐ Highest Rating
+
+![Highest Rating](https://github.com/prachi-janglekar/IMDB-Dataset-Analysis-in-SQL/blob/main/Screenshot%20(107).png?raw=true)
+
+
+### 🗳️ Votes Analysis
+
+![VOTES ANALYSIS](https://github.com/prachi-janglekar/IMDB-Dataset-Analysis-in-SQL/blob/main/Screenshot%20(108).png?raw=true)
+
+
+### 🏆 Highest Votes Movies
+
+![Highest Votes Movies](https://github.com/prachi-janglekar/IMDB-Dataset-Analysis-in-SQL/blob/main/Screenshot%20(110).png?raw=true)
+
+
 ### 📉 Summary Statistics
 
 * Calculated the **average movie rating** across the dataset.
